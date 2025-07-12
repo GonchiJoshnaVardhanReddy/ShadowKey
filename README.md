@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 ShadowKey - Ethical Keylogger Tool
 
 **ShadowKey** is a Python-based keystroke logging tool designed for cybersecurity training, ethical hacking labs, and research environments. It captures all keystrokes and logs them into a secure, hidden file for analysis.
@@ -40,3 +41,6 @@ ShadowKey/
 ShadowKey is meant for **cybersecurity awareness, testing, and red team simulation labs**. It must not be used in the wild or on unauthorized endpoints.
 
 Developed by Gonchi Joshna Vardhan Reddy for ethical red teaming & training.
+=======
+# ShadowKey
+>>>>>>> 3e0a0aaa256aa1a785cd4f729bf9c1544e202c5f
